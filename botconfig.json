@@ -1,8 +1,4 @@
 {
   "prefix": "!",
-  "ownerID": "ID",
-  "red": "0xb70000",
-  "orange": "0xff6a00",
-  "green": "0x00ff26",
-  "purple": "0xd604cf"
+  "ownerID": "ID"
 }
